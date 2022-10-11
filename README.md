@@ -1,51 +1,7 @@
-___
-***
----
-
 # About Me
 My name is CEM YILDIZ.
 
 I am an experienced developer and I have been writing code since 2001. I have worked for many different disciplines and positions about software development. I am aware of rapidly changing world of software and keep myself updated.
-
-
-    ```````````````````````    `                             `` `  `      
-    ```````````````````````                           ``````````````````` 
-    ```````````````````````      ``````             ``````````````````````
-    ``````````````````````````-/shddddhyo/:.`   ``````````````````````````
-    ```````````````````````-oddddhhyhhhhhhdddo-```````````````````````````
-    `````````````````````-yhhysss+//////:/:/smmo``````````````````````````
-    ````````````````````:do/////::----------:odmo`````````````````````````
-    ```````````````````.do:-:---------------:+hmm-````````````````````````
-    ```````````````````-d/:------------------+hdm:````````````````````````
-    ```````````````````.d+:::-------:/+ooo/:-:sdm/````````````````````````
-    ````````````````````s+:osssss+/+oyssoo//:-+dh:````````````````````````
-    ````````````````````-++osydhs/::+o+o++/::-/d/-.```````````````````````
-    `````````````````````o://++//:::::::-------//-````````````````````````
-    `````````````````````:::::::/:--///-------:::.````````````````````````
-    ``````````````````````::---:/o//+/::----::::-`````````````````````````
-    ``````````````````````-:::/+++/+///+/:-::::-``````````````````````````
-    ```````````````````````///+++++++/:://:///::``````````````````````````
-    ````````````````````````/+++/////::/+++///:-h+````````````````````````
-    `````````````````````````-+s++/:://+ooo++:-/ys:```````````````````````
-    `````..........```````````:dyssoosssoo+/:/oysss:.`````````````````````
-    ```................``````:mMdooo+++/////syssssssyso/:.````````````````
-    ``..................:/+oshNMh////:://+oyssssssyhyyyyysoo+:.```````````
-    ``.............-/+syyyyyyhmNs/:::///oyhsssssyhhyyyyyssssssso/-````````
-    `............:ossyyyyyyydddddys+:/sdmNNhsssyyyyyyyyyyyyyyssssss+:.````
-    ............+syyyyyyyyhmNmddddhhhhddhhhhhyydhyyyyyyyyyyyyysyssssoo:```
-    .........../syyyyyyyyyhhhhhhhhddhhhhhhhhhhhyyyssyyyyyyyyssyyssssoos/``
-    ..........-syyyyyyyyyyyyyyyyhyhhhyyyyyyyyyysyyyyyyyyyyysyyhssssssoos:`
-    ..........oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysyyhyssssssooso`
-    .........:yyyhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhhsssssysssoo:
-    .........syyhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysyyyhhyyysssysssso-
-    ......../hhyhyyyyyyyyyyyyyyyyyyyyyyyyyyysssssysysssyyyydyyyyssyysssoo:
-    ........shhhyyyyyyyyyyyyyyyhmhyyyyyyyyyyysssyyyssssssyydhhhssyhysssso/
-    .......:hhhdhyhyyyyyyyyyyyyyyyyyyyyyyyyyysyyysssssssssymmyyyshhssssso+
-    .......odhhmhhyyyyyyyyyyyyyyyyyyyyyyyyyyyssssssssssysyyNhyyyhhyssssss+
-    .......hdhhmdysyyyyyyyyyyyyyyyyyyyyyyyysysssssssssssssymyhyyhhssssssso
-
-created by [Text-Image](https://www.text-image.com/)
-
 
 ## Contact
 +90 532 690 8729 | Istanbul, TURKEY
@@ -108,8 +64,28 @@ conflict management.
 
 ## Experience
 
+
+### CCI - Coca-Cola Icecek
+> February 2019 - December 2020 | Solution Architect
+
+#### Top Ten Keywords
+1. Salesforce
+2. APEX
+3. Microsoft Azure / Azure Devops
+4. AWS
+5. Android Development - Java
+6. C#
+7. CI/CD
+8. Mulesoft
+9. CRM
+10. MSSQL
+
+I managed the CRM development team which is responsible to maintain and develop ad-hoc mobile applications (iOS and Android), Salesforce, backend services, 3rd party integrations (Mulesoft, Teradata, SAP).
+
+I created the CI/CD pipelines on Microsoft Azure Devops for backend and also mobile applications (with covering all build and signing process - iOS and Android).
+
 ### Freelancer
-> September 2018 | Full stack developer
+> September 2018 - February 2019
 
 #### Top Ten Keywords
 1. Go
