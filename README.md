@@ -11,6 +11,7 @@ I am an experienced developer and I have been writing code since 2001. I have wo
 
 ## Accounts
 [github](https://github.com/cocey)
+|
 [linkedin](https://www.linkedin.com/in/cemyildiz1982/)
 
 ## Skills
